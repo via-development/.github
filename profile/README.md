@@ -1,7 +1,7 @@
 ## welcome to our org!
 This is where we code all of the bots relating to Mr Poll.
 
-Add Mr Poll here -> https://dsc.gg/mrpoll
+Add Mr Poll here -> https://mrpoll.dev/invite
 <!--
 
 **Here are some ideas to get you started:**
