@@ -2,8 +2,12 @@
 This is where we code all of the bots relating to Mr Poll.
 
 Add Mr Poll here -> https://mrpoll.dev/invite
-<!--
 
+<a href="https://top.gg/bot/730778862203437068">
+  <img src="https://top.gg/api/widget/730778862203437068.svg">
+</a>
+
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
