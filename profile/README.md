@@ -7,6 +7,9 @@ Add Mr Poll here -> https://mrpoll.dev/invite
   <img src="https://top.gg/api/widget/730778862203437068.svg">
 </a>
 
+<a href="https://status.watchbot.app/bot/730778862203437068">
+  <img src="https://api.watchbot.app/bot/730778862203437068/widget?theme=dark" alt="Mr Poll#7192" />
+</a>
 <!--
 **Here are some ideas to get you started:**
 
