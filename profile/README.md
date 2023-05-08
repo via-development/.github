@@ -1,4 +1,6 @@
-## Mr Poll Coding Home
+
+
+<!-- ## Mr Poll Coding Home
 Mr Poll is a bot allowing you create amazing polls in your server.\
 This is where we code all of the bots relating to Mr Poll.
 
@@ -11,9 +13,18 @@ Mr Poll is closed sourced at the moment sorry, the code is only accessible by ou
 
 <!--<a href="https://status.watchbot.app/bot/730778862203437068">
   <img src="https://api.watchbot.app/bot/730778862203437068/widget?theme=dark" alt="Mr Poll#7192" />
-</a>-->
+</a>
 
-**[ [Invite Mr Poll](https://mrpoll.dev/invite) ] [ [Join Our Server](https://mrpoll.dev/support) ]**
+**[ [Invite Mr Poll](https://mrpoll.dev/invite) ] [ [Join Our Server](https://mrpoll.dev/support) ]** -->
+
+<h2 align='center'>
+  <a href="https://mrpoll.dev/invite">
+    <img src="https://github.com/mrpollbot/mr-poll-resources/blob/main/Banners/Git3_.png" width="690" height:"500" />
+  </a>
+  <br> 
+</h2>
+<p>
+</p>
 <!--
 **Here are some ideas to get you started:**
 
