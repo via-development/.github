@@ -1,6 +1,11 @@
+<h3 align="center"><a href="https://mrpoll.dev/invite"><img src="https://github.com/mrpollbot/mr-poll-resources/blob/main/Banners/Mr%20Poll%20Title%202.png?raw=true" width="600px"></a></h3>
+<p align="center">   
+</a>
+  <a href="https://discord.gg/U3y6uyP"><img src="https://img.shields.io/discord/730812124993159198?label=chat&logo=discord&logoColor=discord"></a>
+ <a href="https://twitter.com/intent/follow?screen_name=mrpollbot"><img src="https://img.shields.io/twitter/follow/mrpollbot?style=social&logo=twitter"alt="Follow our twitter!"></a>
+  <br>
 
-
-<!-- ## Mr Poll Coding Home
+## Mr Poll Coding Home
 Mr Poll is a bot allowing you create amazing polls in your server.\
 This is where we code all of the bots relating to Mr Poll.
 
@@ -15,16 +20,12 @@ Mr Poll is closed sourced at the moment sorry, the code is only accessible by ou
   <img src="https://api.watchbot.app/bot/730778862203437068/widget?theme=dark" alt="Mr Poll#7192" />
 </a>
 
-**[ [Invite Mr Poll](https://mrpoll.dev/invite) ] [ [Join Our Server](https://mrpoll.dev/support) ]** -->
-
-<h2 align='center'>
-  <a href="https://mrpoll.dev/invite">
-    <img src="https://github.com/mrpollbot/mr-poll-resources/blob/main/Banners/Git3_.png" width="690" height:"500" />
-  </a>
-  <br> 
+**[ [Invite Mr Poll](https://mrpoll.dev/invite) ] [ [Join Our Server](https://mrpoll.dev/support) ]**
 </h2>
 <p>
 </p>
+
+---
 <!--
 **Here are some ideas to get you started:**
 
