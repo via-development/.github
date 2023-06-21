@@ -16,7 +16,9 @@ Mr Poll is closed sourced at the moment sorry, the code is only accessible by ou
 <a href="https://top.gg/bot/730778862203437068">
   <img src="https://top.gg/api/widget/730778862203437068.svg">
 </a>
-
+<a href="https://top.gg/bot/730778862203437068">
+  <img src="https://top.gg/api/widget/699232440140693524.svg">
+</a>
 <!--<a href="https://status.watchbot.app/bot/730778862203437068">
   <img src="https://api.watchbot.app/bot/730778862203437068/widget?theme=dark" alt="Mr Poll#7192" />
 </a>
