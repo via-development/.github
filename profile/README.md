@@ -1,4 +1,4 @@
-<h3 align="center"><a href="https://mrpoll.dev/invite"><img src="https://github.com/mrpollbot/mr-poll-resources/blob/main/Banners/viabanner.png?raw=true" width="800px"></a></h3>
+<h3 align="center"><a href="https://mrpoll.dev/invite"><img src="https://cdn.discordapp.com/attachments/802979742092754985/1125498258098245763/ViaTitle.png" width="800px"></a></h3>
 <p align="center">   
 </a>
   <a href="https://discord.gg/U3y6uyP"><img src="https://img.shields.io/discord/730812124993159198?label=chat&logo=discord&logoColor=discord"></a>
